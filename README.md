@@ -1,2 +1,1 @@
-# bootstrap
-my first bootstrap experiment
+https://najihanoorudheen.github.io/bootstrap/
